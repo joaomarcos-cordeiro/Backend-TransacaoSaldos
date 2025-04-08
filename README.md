@@ -7,11 +7,19 @@
 
 	CPF/CNPJ - UNICO
 
-	– -Email - UNICO
-	– -Senha
-	– -Relação com carteira 
-	– -Relação com Transferência
-	– -Tipo de Usuário
+  	Email - UNICO
+
+  
+  	Senha
+
+
+	Relação com carteira
+
+   
+  	Relação com Transferência
+
+
+  	Tipo de Usuário
 
 - Carteira - entidade
 - Transferência - entidade 
