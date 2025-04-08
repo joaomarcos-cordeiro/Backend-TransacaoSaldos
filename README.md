@@ -1,4 +1,4 @@
-##Transações Saldos
+## Transações Saldos
 
 
 - Tipos de usuários - Comum – Lojista
@@ -14,7 +14,7 @@
 - Carteira - entidade
 - Transferência - entidade 
 
-## Regra de Negócio 
+- - Regra de Negócio 
 - Transferência de Dinheiro – entre usuários e lojistas ou somente usuários
 - Lojistas somente recebe = não podem fazer transferências
 
