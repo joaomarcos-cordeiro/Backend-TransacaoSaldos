@@ -3,8 +3,10 @@
 
 - Tipos de usuários - Comum – Lojista
 - Usuário – entidade  
-	– - Nome completo
-	– -CPF/CNPJ - UNICO
+	Nome completo
+
+	CPF/CNPJ - UNICO
+
 	– -Email - UNICO
 	– -Senha
 	– -Relação com carteira 
