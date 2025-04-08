@@ -1,12 +1,12 @@
-Transações Saldos
+##Transações Saldos
 
 
-Tipos de usuários - Comum – Lojista 
-Usuário – entidade  
+- Tipos de usuários - Comum – Lojista
+- Usuário – entidade  
 	- Nome completo
 	-CPF/CNPJ - UNICO
 	-Email - UNICO
--Senha
+	-Senha
 	-Relação com carteira 
 	-Relação com Transferência
 	-Tipo de Usuário
