@@ -1,8 +1,9 @@
-## Transações Saldos
+## Transações Saldos (Class Architecture)
 
 
 - Tipos de usuários - Comum – Lojista
-- Usuário – entidade  
+- Usuário – entidade
+  
 	Nome completo
 
 	CPF/CNPJ - UNICO
