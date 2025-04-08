@@ -33,7 +33,7 @@
 - Validar se a transferência foi autorizada  mock( https://util.devi.tools/api/v2/authorize)
 
 - @Transactional = reverter a operação em caso de qualquer falha
-- Enviar email ao usuário que recebeu o pagamento -  mock ( https://util.devi.tools/api/v1/notify)
+- Enviar email ao usuário que recebeu o pagamento -  mock ( https://util.devi.tools/api/v1/notify) - Microservice - apiexterna
 - Serviço RESTful
 
 - RequestPost
