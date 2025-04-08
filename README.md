@@ -3,18 +3,18 @@
 
 - Tipos de usuários - Comum – Lojista
 - Usuário – entidade  
-	- Nome completo
-	-CPF/CNPJ - UNICO
-	-Email - UNICO
-	-Senha
-	-Relação com carteira 
-	-Relação com Transferência
-	-Tipo de Usuário
+	– - Nome completo
+	– -CPF/CNPJ - UNICO
+	– -Email - UNICO
+	– -Senha
+	– -Relação com carteira 
+	– -Relação com Transferência
+	– -Tipo de Usuário
 
 - Carteira - entidade
 - Transferência - entidade 
 
-- - Regra de Negócio 
+## Regra de Negócio 
 - Transferência de Dinheiro – entre usuários e lojistas ou somente usuários
 - Lojistas somente recebe = não podem fazer transferências
 
