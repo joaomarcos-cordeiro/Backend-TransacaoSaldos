@@ -30,10 +30,10 @@
 - Lojistas somente recebe = não podem fazer transferências
 
 - Validar saldo do usuário
-- Validar se a transferência foi autorizada  mock( https://util.devi.tools/api/v2/authorize)
+- Validar se a transferência foi autorizada  mock( https://util.devi.tools/api/v2/authorize) - Microservice - apiexterna
 
 - @Transactional = reverter a operação em caso de qualquer falha
-- Enviar email ao usuário que recebeu o pagamento -  mock ( https://util.devi.tools/api/v1/notify) - Microservice - apiexterna
+- Enviar email ao usuário que recebeu o pagamento -  mock ( https://util.devi.tools/api/v1/notify) 
 - Serviço RESTful
 
 - RequestPost
