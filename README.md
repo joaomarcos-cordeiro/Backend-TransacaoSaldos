@@ -1,5 +1,5 @@
 ## Transações Saldos (Class Architecture)
-API backend para gerenciamento de transações financeiras entre usuários, com validação de saldo, regras específicas para diferentes tipos de contas e simulação de serviços externos de autorização e notificação.
+API para gerenciamento de transações financeiras entre usuários, com validação de saldo, regras específicas para diferentes tipos de contas e simulação de serviços externos de autorização e notificação.
 
 - Tipos de usuários - Comum – Lojista
 - Usuário – entidade
