@@ -44,6 +44,58 @@ API para gerenciamento de transações financeiras entre usuários, com validaç
 }
 
 - Pre popular os dados de cadastro de usuários e lojista
+## ~~~ English -> 
+
+API for managing financial transactions between users, with balance validation, specific rules for different account types, and simulation of external authorization and notification services.
+
+-User Types - Common – Merchant
+
+-User – entity
+
+Full name
+
+CPF/CNPJ - UNIQUE
+
+Email - UNIQUE
+
+Password
+
+Wallet relationship
+
+Transfer relationship
+
+User Type
+
+- Wallet - entity
+
+- Transfer - entity
+
+## Business Rules
+
+- Money Transfer – between users and merchants or only users
+
+- Merchants only receive = cannot make transfers
+
+- Validate user balance
+
+- Validate if the transfer was authorized mock( https://util.devi.tools/api/v2/authorize
+) - Microservice - external api
+
+- @Transactional = rollback the operation in case of any failure
+
+- Send email to the user who received the payment - mock ( https://util.devi.tools/api/v1/notify
+)
+
+- RESTful Service
+
+- RequestPost
+{
+"value": 100.0,
+"payer": 3, (payer)
+"payee": 15 (receiver id)
+}
+
+- Pre-populate user and merchant registration data
 
 
 
