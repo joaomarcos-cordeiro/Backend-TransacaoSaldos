@@ -48,9 +48,9 @@ API para gerenciamento de transações financeiras entre usuários, com validaç
 
 API for managing financial transactions between users, with balance validation, specific rules for different account types, and simulation of external authorization and notification services.
 
--User Types - Common – Merchant
+- User Types - Common – Merchant
 
--User – entity
+- User – entity
 
 Full name
 
