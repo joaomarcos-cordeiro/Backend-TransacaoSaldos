@@ -44,7 +44,7 @@ API para gerenciamento de transações financeiras entre usuários, com validaç
 }
 
 - Pre popular os dados de cadastro de usuários e lojista
-## ~~~ English -> 
+##  ``` ~~~ English -> ```
 
 API for managing financial transactions between users, with balance validation, specific rules for different account types, and simulation of external authorization and notification services.
 
